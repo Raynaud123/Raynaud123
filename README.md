@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/raynaud-cornille-527a8222/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/raynaudcornille">
+    <a href="https://raynaud123.github.io/Site/">
       <img src="https://img.shields.io/badge/website-red?style=for-the-badge" alt"Website link"/>
     </a>
     <a href="https://twitter.com/raynaudcornille">
