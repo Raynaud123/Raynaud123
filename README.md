@@ -22,7 +22,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 I am a software engineering student from Belgium.
-- :closed_book: I am currently in my master year at the KU Leuven.
+- :closed_book: I am currently in my first master year at the UGent.
 
 - :soccer: My hobbies are soccer, reading and coding.
 ---
