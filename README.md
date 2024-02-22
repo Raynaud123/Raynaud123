@@ -21,7 +21,7 @@
 
 
 ### :man_technologist: &nbsp;About Me :
-I am a software engineering student from Belgium.
+I am a computer science engineering student from Belgium.
 - :closed_book: I am currently in my first master year at the UGent.
 
 - :soccer: My hobbies are soccer, reading and coding.
