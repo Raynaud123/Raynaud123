@@ -24,7 +24,6 @@
 I am a computer science engineering student from Belgium.
 - :closed_book: I am currently in my first master year at the UGent.
 
-- :soccer: My hobbies are soccer, reading and coding.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -44,7 +43,7 @@ I am a computer science engineering student from Belgium.
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-<p>And some more, feel free to ask!</p>
+<p>And some more!</p>
 
 ---
 
