@@ -19,13 +19,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
-### :man_technologist: &nbsp;About Me :
-I am a computer science engineering student from Belgium.
-- :closed_book: I am currently in my first master year at the UGent.
-
----
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
